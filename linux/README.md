@@ -7,6 +7,6 @@
     ```
 - Add ssh.pub key to remote system, to do password free login
     ```
-    ssh-copy-id username@remoteHost
-    ssh-copy-id -i path/to/key.pub username@remoteHost
+    ssh-copy-id -f username@remoteHost
+    ssh-copy-id -i path/to/key.pub -f username@remoteHost
     ```
