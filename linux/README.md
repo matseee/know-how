@@ -5,3 +5,8 @@
     ```
     ssh-keygen -t rsa -b 4096 -C "m@tthias.space"
     ```
+- Add ssh.pub key to remote system, to do password free login
+    ```
+    ssh-copy-id username@remoteHost
+    ssh-copy-id -i path/to/key.pub username@remoteHost
+    ```
