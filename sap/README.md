@@ -1,7 +1,7 @@
 # SAP
-- [Transport](#transport)
+- [Transport](#transport-zum-kundensystem)
 
-## Transport
+## Transport zum Kundensystem
 Ursprungsystem:
 1. `se10` um den Transport freizugeben
 2. Mit filezilla oder `CG3Y` Cofiles und Data herunterladen
