@@ -1,4 +1,6 @@
 # Linux commands
+1. [Cronjobs](#cronjobs)
+1. [SSH](#ssh)
 
 ## Cronjobs
 - Edit current cronjobs
