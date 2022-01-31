@@ -1,7 +1,7 @@
 # SAP
-- [Transactions](#transactions)
+- [Transport](#transport)
 
-## Upload transport
+## Transport
 Ursprungsystem:
 1. `se10` um den Transport freizugeben
 2. Mit filezilla oder `CG3Y` Cofiles und Data herunterladen
