@@ -34,3 +34,9 @@
     ssh-copy-id -f username@remoteHost
     ssh-copy-id -i path/to/key.pub -f username@remoteHost
     ```
+
+## System monitoring commands
+- Show disk usage
+    ```
+    df -h
+    ```
