@@ -1,6 +1,7 @@
 # Linux commands
 1. [Cronjobs](#cronjobs)
 1. [SSH](#ssh)
+1. [System monitoring](#system-monitoring-commands)
 
 ## Cronjobs
 - Edit current cronjobs
@@ -35,7 +36,7 @@
     ssh-copy-id -i path/to/key.pub -f username@remoteHost
     ```
 
-## System monitoring commands
+## System monitoring
 - Show disk usage
     ```
     df -h
