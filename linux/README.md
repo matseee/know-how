@@ -1,7 +1,7 @@
 # Linux commands
 1. [Cronjobs](#cronjobs)
 1. [SSH](#ssh)
-1. [System monitoring](#system-monitoring-commands)
+1. [System monitoring](#system-monitoring)
 
 ## Cronjobs
 - Edit current cronjobs
