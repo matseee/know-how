@@ -9,5 +9,5 @@ Ursprungsystem:
 Kundensystem:
 1. `al11` um den Upload-Folder auszulesen (`DIR_TRANS`)
 2. `cg3z` um Datei hochzuladen (data = R*, cofiles = K*)
-3. `stms` -> `Zusätze` -> `Weitere Aufträge` -> `Anhängen` -> Transport eingeben (`ABMK*`)
+3. `stms` -> `Zusätze` -> `Weitere Aufträge` -> `Anhängen` -> Transport eingeben 
 4. Auftrag auswählen -> `Auftrag` -> `Auftrag importieren`
