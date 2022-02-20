@@ -1,7 +1,8 @@
 # docker
+1. [Inspect image directory structure](#inspect_image_directory_structure)
 
 
-## debug image directory structure
+## inspect image directory structure
 1. Replace `ENTRYPOINT` / `CMD` command with
     ```
     ENTRYPOINT ["sleep", "3600"]
