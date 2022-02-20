@@ -1,5 +1,5 @@
 # docker
-1. [Inspect image directory structure](#inspect_image_directory_structure)
+1. [Inspect image directory structure](#inspect-image-directory-structure)
 
 
 ## inspect image directory structure
