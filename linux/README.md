@@ -1,7 +1,25 @@
 # Linux commands
+1. [Archive](#Archive)
 1. [Cronjobs](#cronjobs)
 1. [SSH](#ssh)
 1. [System monitoring](#system-monitoring)
+
+## Archive
+- Create a new compressed archive 
+    ```
+    // c = create
+    // z = compress gzip
+    // f = file
+    // v = verbose
+    tar czfv new.archivew.tgz file.txt folder/
+    ```
+- Extract archive
+    ```
+    // x = extract
+    tar xzf ostechnix.tgz // in current directory
+    tar xzf ostechnix.tgz -C output/path/ // in output path
+    ```
+
 
 ## Cronjobs
 - Edit current cronjobs
