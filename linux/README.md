@@ -2,6 +2,7 @@
 1. [Archive](#Archive)
 1. [Cronjobs](#cronjobs)
 1. [SSH](#ssh)
+1. [Symlinks](#Symlinks)
 1. [System monitoring](#system-monitoring)
 
 ## Archive
@@ -52,6 +53,17 @@
     ```
     ssh-copy-id -f username@remoteHost
     ssh-copy-id -i path/to/key.pub -f username@remoteHost
+    ```
+
+## Symlinks
+- Create a symlink
+    ```
+    ln -s /path/to/dir_or_file /path/to/new/symlink
+    ```
+
+- Remove a symlink
+    ```
+    rm /path/to/new/symlink
     ```
 
 ## System monitoring
