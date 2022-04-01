@@ -23,6 +23,10 @@
     ```
 
 ## Disk usage
+- List disk usage
+    ```
+    df -h
+    ```
 - Show size of directory
     ```
     du -h /path/to/folder
