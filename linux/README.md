@@ -1,6 +1,6 @@
 # Linux commands
 1. [Archive](#Archive)
-1. [Disk usage of directory](#disk-usage-of-directory)
+1. [Disk usage](#disk-usage)
 1. [Cronjobs](#cronjobs)
 1. [SSH](#ssh)
 1. [Symlinks](#Symlinks)
@@ -22,10 +22,11 @@
     tar xzf ostechnix.tgz -C output/path/ // in output path
     ```
 
-## Disk usage of directory
-```
-du -h /path/to/folder
-```
+## Disk usage
+- Show size of directory
+    ```
+    du -h /path/to/folder
+    ```
 
 
 ## Cronjobs
