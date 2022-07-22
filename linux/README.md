@@ -2,6 +2,7 @@
 1. [Archive](#Archive)
 1. [Disk usage](#disk-usage)
 1. [Cronjobs](#cronjobs)
+1. [Network](#network)
 1. [SSH](#ssh)
 1. [Symlinks](#Symlinks)
 1. [System monitoring](#system-monitoring)
@@ -53,6 +54,12 @@
 
     # run script every 5 minutes without log file
     */5 * * * * /home/user/script.sh >/dev/null 2>&1
+    ```
+
+## Network
+- Set mtu value for network device
+    ```
+    sudo ip link set dev eth0 mtu 1350
     ```
 
 ## SSH
